@@ -12,7 +12,7 @@
         </SectionParagraph>
         <SectionParagraph>
           I'm currently working full-time for
-          <LinkBtn link="https://trileotech.com/" text="DevOcean"/>, a cool web
+          <LinkBtn link="https://trileotech.com/" text="Sincos Development"/>, a cool web
           development company in Vinnytsia.
           I am also learning TS. Before this, I just
           used to create various Node.js web-apps/programs to fulfill my needs. It has helped me
@@ -46,7 +46,7 @@
   </div>
 </template>
 <script setup>
-import {useWorkStore} from "../store/workStore";
+import {useWorkStore} from "~/store/workStore";
 import TopImage from "../assets/imgs/about-image.jpg"
 
 const workStore = useWorkStore();

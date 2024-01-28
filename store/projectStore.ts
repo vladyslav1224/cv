@@ -1,5 +1,5 @@
 import {defineStore} from "pinia";
-import {ProjectStore} from "../types/typings";
+import {ProjectStore} from "~/types/typings";
 
 // @ts-ignore
 const images: Record<string, string> = import.meta.glob("../assets/featured/*.{png,jpg}", {as: 'url', eager: true});
