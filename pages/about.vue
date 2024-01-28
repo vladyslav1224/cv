@@ -12,7 +12,7 @@
         </SectionParagraph>
         <SectionParagraph>
           I'm currently working full-time for
-          <LinkBtn link="https://trileotech.com/" text="Sincos Development"/>, a cool web
+          <LinkBtn link="http://sincos.tech/" text="Sincos Development"/>, a cool web
           development company in Vinnytsia.
           I am also learning TS. Before this, I just
           used to create various Node.js web-apps/programs to fulfill my needs. It has helped me

@@ -9,7 +9,7 @@ export const useProjectStore = defineStore<string, ProjectStore>("projectStore",
         {
             id: 1,
             name: "Evolve - Task Manager",
-            image: images["../assets/featured/evolve.png"],
+            image: images["../assets/featured/evolveg"],
             description:
                 "Evolve is a manager for your productivity",
             tech: ["Vue.js", "TailwindCSS"],
